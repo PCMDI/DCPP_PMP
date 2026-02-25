@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PCMDI Metrics Package
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Choi
+    given-names: Jung
+    affiliation: Seoul National University
+  - affiliation: Lawrence Livermore National Laboratory
+    given-names: Kristin
+    family-names: Chang
+  - given-names: Jiwoo
+    family-names: Lee
+    email: lee1043@llnl.gov
+    affiliation: Lawrence Livermore National Laboratory
+    orcid: 'https://orcid.org/0000-0002-0016-7199'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18692307
+    description: Software
+repository-code: 'https://github.com/PCMDI/DCPP_PMP'
+abstract: ' Codes for benchmarking decadal predictions leveraging the PCMDI Metric Package with interactive visualization '
+keywords:
+  - climate
+  - climate modeling
+  - climate model evaluation
+  - Earth System Model evaluation
+  - climatology
+  - climate variability
+license: BSD-3-Clause
+version: '4.0.1'
+date-released: '2026-02-25'
