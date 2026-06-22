@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: PCMDI Metrics Package
+title: PCMDI Metrics Package DCPP metrics
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -34,4 +34,4 @@ keywords:
   - climate variability
 license: BSD-3-Clause
 version: '4.0.1'
-date-released: '2026-02-25'
+date-released: '2026-06-22'
